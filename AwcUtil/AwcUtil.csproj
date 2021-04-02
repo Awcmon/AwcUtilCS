@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Awcmon</Authors>
+    <Description>Personal library for various utility functions.</Description>
   </PropertyGroup>
 
 </Project>
